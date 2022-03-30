@@ -1,0 +1,15 @@
+C:\Users\SANTIAGO\source\repos\Sarabia_Santiago_EX2\Sarabia_Santiago_EX2\bin\Debug\net6.0\Sarabia_Santiago_EX2.exe
+C:\Users\SANTIAGO\source\repos\Sarabia_Santiago_EX2\Sarabia_Santiago_EX2\bin\Debug\net6.0\Sarabia_Santiago_EX2.deps.json
+C:\Users\SANTIAGO\source\repos\Sarabia_Santiago_EX2\Sarabia_Santiago_EX2\bin\Debug\net6.0\Sarabia_Santiago_EX2.runtimeconfig.json
+C:\Users\SANTIAGO\source\repos\Sarabia_Santiago_EX2\Sarabia_Santiago_EX2\bin\Debug\net6.0\Sarabia_Santiago_EX2.dll
+C:\Users\SANTIAGO\source\repos\Sarabia_Santiago_EX2\Sarabia_Santiago_EX2\bin\Debug\net6.0\Sarabia_Santiago_EX2.pdb
+C:\Users\SANTIAGO\source\repos\Sarabia_Santiago_EX2\Sarabia_Santiago_EX2\obj\Debug\net6.0\Sarabia_Santiago_EX2.csproj.AssemblyReference.cache
+C:\Users\SANTIAGO\source\repos\Sarabia_Santiago_EX2\Sarabia_Santiago_EX2\obj\Debug\net6.0\Sarabia_Santiago_EX2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SANTIAGO\source\repos\Sarabia_Santiago_EX2\Sarabia_Santiago_EX2\obj\Debug\net6.0\Sarabia_Santiago_EX2.AssemblyInfoInputs.cache
+C:\Users\SANTIAGO\source\repos\Sarabia_Santiago_EX2\Sarabia_Santiago_EX2\obj\Debug\net6.0\Sarabia_Santiago_EX2.AssemblyInfo.cs
+C:\Users\SANTIAGO\source\repos\Sarabia_Santiago_EX2\Sarabia_Santiago_EX2\obj\Debug\net6.0\Sarabia_Santiago_EX2.csproj.CoreCompileInputs.cache
+C:\Users\SANTIAGO\source\repos\Sarabia_Santiago_EX2\Sarabia_Santiago_EX2\obj\Debug\net6.0\Sarabia_Santiago_EX2.dll
+C:\Users\SANTIAGO\source\repos\Sarabia_Santiago_EX2\Sarabia_Santiago_EX2\obj\Debug\net6.0\refint\Sarabia_Santiago_EX2.dll
+C:\Users\SANTIAGO\source\repos\Sarabia_Santiago_EX2\Sarabia_Santiago_EX2\obj\Debug\net6.0\Sarabia_Santiago_EX2.pdb
+C:\Users\SANTIAGO\source\repos\Sarabia_Santiago_EX2\Sarabia_Santiago_EX2\obj\Debug\net6.0\Sarabia_Santiago_EX2.genruntimeconfig.cache
+C:\Users\SANTIAGO\source\repos\Sarabia_Santiago_EX2\Sarabia_Santiago_EX2\obj\Debug\net6.0\ref\Sarabia_Santiago_EX2.dll

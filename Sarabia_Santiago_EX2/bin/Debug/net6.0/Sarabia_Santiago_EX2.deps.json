@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Sarabia_Santiago_EX2/1.0.0": {
+        "runtime": {
+          "Sarabia_Santiago_EX2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sarabia_Santiago_EX2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
